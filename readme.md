@@ -14,3 +14,5 @@ O cronômetro possui 3 botões:
 
 ​	Stop - Para e zera o cronômetro.
 
+Projeto publicado em: https://renatoganske.github.io/cronometro/
+
