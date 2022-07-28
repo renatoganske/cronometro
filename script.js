@@ -16,7 +16,6 @@ function stop(){
     clearInterval(interval)
     sec=0
     min=0
-    document.getElementById('stopWatch').innerText='00:00:00'
 }
 
 function twoDigits(digit){
